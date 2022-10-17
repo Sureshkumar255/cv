@@ -1,0 +1,74 @@
+.box{
+    height:1340px;
+    width:300px;
+    background-color:#123456;
+    margin-left:1030px;
+  }
+  .right{
+      text-align: center;
+      padding-top:6px;
+      color:aliceblue;
+  }
+  .left{
+      margin-top:-102%;
+      font-size:20px;
+      margin-left:30px;
+  }
+  .contact{
+      width:300px;
+      height:30px;
+      background-color:#012456;
+  }
+  .contact h4{
+      text-align: left;
+      padding-top:5px;
+      padding-left:7px;
+  }
+  .right p{
+      text-align: left;
+      text-decoration: none;
+      padding-left:17px;
+      font-style: normal;
+  }
+  .skill{
+      width:300px;
+      height:30px;
+      background-color:#012456;
+  }
+  .skill h4{
+      text-align: left;
+      padding-top:5px;
+      padding-left:7px;
+  }
+  .right li{
+      text-align:left;
+      padding-left:7px;
+  }
+  .language{
+      width:300px;
+      height:30px;
+      background-color:#012456;
+  }
+  .language h4{
+      text-align: left;
+      padding-top:5px;
+      padding-left:7px;
+  }
+  .right p a{
+      text-decoration: none;
+      color:aliceblue;
+  }
+ * hr{
+      width:1090px;
+      margin-left:-92px;
+  }
+  .hobbies{
+    width:300px;
+    height:30px;
+    background-color:#012456;
+  }
+  .hobbies h4{
+    text-align: left;
+    padding-top:5px;
+    padding-left:7px;
+  }
